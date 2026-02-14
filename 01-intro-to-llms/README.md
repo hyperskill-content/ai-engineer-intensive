@@ -55,10 +55,7 @@ In this timeslot, you’ll be able to:
 - Discuss LLM capabilities, limitations, and prompting techniques
 - Get advice on how to structure your own first steps in AI engineering
 
-**Date & Time:** TBA
-
-**Link:** TBA
-
+**Date & Time, link:** The meeting details will be shared via Discord and the calendar
 
 ## Step 4 – Project: Simple Python CLI Chat
   **FULL TRACK**  /    **SHORT TRACK**
