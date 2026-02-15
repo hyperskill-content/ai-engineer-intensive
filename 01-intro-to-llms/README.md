@@ -35,15 +35,15 @@ Start the module by watching this session, which covers:
 
 This project introduces building agents with OpenAI's Responses API by integrating MCP servers for external data retrieval and combining them with code interpreter tools for autonomous computational analysis and visualization generation.
 
-Start the [Stock Analyzer](https://hyperskill.org/projects/558) project       
+Start the [**Stock Analyzer**](https://hyperskill.org/projects/558) project       
 
-1. Work on [stage 1/4 Stock Analyzer](https://hyperskill.org/projects/558/stages/3190/implement)                 
+1. Work on [**stage 1/4 Stock Analyzer**](https://hyperskill.org/projects/558/stages/3190/implement)                 
 **Core concepts needed**: `dotenv` library, OpenAI API client initialization, MCP server configuration (`server_label`, `server_url`, `authorization`, `require_approval`), `responses.create()` endpoint, prompt engineering for MCP tool usage.
-2. Work on [stage 2/4 Stock Analyzer](https://hyperskill.org/projects/558/stages/3189/implement)          
+2. Work on [**stage 2/4 Stock Analyzer**](https://hyperskill.org/projects/558/stages/3189/implement)          
 **Core concepts needed**: Multi-tool MCP requests, technical indicator parameters (RSI, SMA, BBANDS), structured prompt design for sequential `TOOL_CALL` invocations, financial function parameter specification (`interval`, `time_period`, `series_type`).
-3. Work on [stage 3/4 Stock Analyzer](https://hyperskill.org/projects/558/stages/3191/implement)              
+3. Work on [**stage 3/4 Stock Analyzer**](https://hyperskill.org/projects/558/stages/3191/implement)              
 **Core concepts needed**: Code interpreter tool integration, combining MCP with computational tools, multi-step prompt workflows (retrieve then analyze), statistical calculations through generated code.
-4. Work on [task 4/4 Stock Analyzer](https://hyperskill.org/projects/558/stages/3192/implement)              
+4. Work on [**stage 4/4 Stock Analyzer**](https://hyperskill.org/projects/558/stages/3192/implement)              
 **Core concepts needed**: Visualization generation with code interpreter, response annotation parsing (`AnnotationContainerFileCitation`), `client.containers.files.content.retrieve()`, file content extraction and binary file writing.
 
 ## Step 3 – Open hours: Intro to LLMs & Pipelines
@@ -67,13 +67,13 @@ In this project, you’ll learn how to:
 - Manage the conversation history
 - Print responses directly to your terminal
 
-Start [Simple Python CLI Chat](https://hyperskill.org/projects/478) project
+Start [**Simple Python CLI Chat**](https://hyperskill.org/projects/478) project
 
-1. Work on [stage 1/3 Simple Python CLI Chat](https://hyperskill.org/projects/478/stages/2736/implement)    
+1. Work on [**stage 1/3 Simple Python CLI Chat**](https://hyperskill.org/projects/478/stages/2736/implement)    
 Core concepts needed: Function declaration and invocation, modules and packages, command line navigation, pip package management, HTTP protocol, JSON handling, URL manipulation, dotenv configuration, and OpenAI API integration.
-2. Work on [stage 2/3 Simple Python CLI Chat](https://hyperskill.org/projects/478/stages/2737/implement)            
+2. Work on [**stage 2/3 Simple Python CLI Chat**](https://hyperskill.org/projects/478/stages/2737/implement)            
 Core concepts needed: basic arithmetic operations in Python, basic prompting techniques (zero-shot, few-shot, and chain-of-thought prompting).      
-3. Work on [stage 3/3 Simple Python CLI Chat](https://hyperskill.org/projects/478/stages/2738/implement)       
+3. Work on [**stage 3/3 Simple Python CLI Chat**](https://hyperskill.org/projects/478/stages/2738/implement)       
 Core concepts needed: global variables, dictionary and list data structures, loops, `**kwargs`, OpenAI’s API function/tool calling with JSON schema, object attribute access, string formatting with f-strings, conditional execution.
 
 ## Step 5 - Project: Introduction to Langchain
