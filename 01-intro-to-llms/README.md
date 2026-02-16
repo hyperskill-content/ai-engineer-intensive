@@ -16,6 +16,12 @@ By the end of this module, you’ll:
 - Understand the basics of LLMs and their current limitations.
 - Master prompting skills and basic prompting techniques while building LLM-based apps.
 
+> [!TIP]
+> Here is the breakdown of the short and full track project split for this module:                
+> The Stock Analyzer - short & full             
+> Simple Python CLI chat - short & full              
+> Introduction to LangChain - ahead of schedule     
+
 ## Step 1 – Watch the session: *Breaking Into AI Engineering*
 
 Start the module by watching this session, which covers:
