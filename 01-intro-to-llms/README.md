@@ -76,9 +76,7 @@ Core concepts needed: basic arithmetic operations in Python, basic prompting tec
 3. Work on [**stage 3/3 Simple Python CLI Chat**](https://hyperskill.org/projects/478/stages/2738/implement)       
 Core concepts needed: global variables, dictionary and list data structures, loops, `**kwargs`, OpenAI’s API function/tool calling with JSON schema, object attribute access, string formatting with f-strings, conditional execution.
 
-## Step 5 - Project: Introduction to Langchain
-
-  **FULL TRACK**  /    **SHORT TRACK**
+## Step 5 - Project: Introduction to Langchain (Bonus project)
 
 Note: If you don't have time to complete this project in the first module - don't worry, it will be revisited in the fourth module (Building RAG systems).
 
