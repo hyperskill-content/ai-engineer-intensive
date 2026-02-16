@@ -18,6 +18,12 @@ By the end of this module, you’ll:
 - Explore memory, reflection, and tool-use within agent design
 - Create multi-step agents that interact with APIs, tools, or data
 
+> [!TIP]
+> Here is the breakdown of the short and full track project split for this module:                
+> Building a PR Review Agent - short & full             
+> Applied Memory for Agents - full              
+> AI Diet & Meal Planner - full      
+
 ## **Step 1 –** Watch the session: *AI Agents: Beyond the Hype*
 
 Start this module by watching the webinar recording, which covers:
