@@ -1,7 +1,7 @@
 # 3. Vector Databases
 
-Start of module 1: March 16, 2026          
-End of module 1: March 22, 2026             
+Start of module 3: March 16, 2026          
+End of module 3: March 22, 2026             
 Duration: 1 week             
 Time estimate: ~12 hours per week            
 
