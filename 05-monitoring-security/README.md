@@ -1,9 +1,9 @@
 # 5. Monitoring & Security
 
-Start of module 1: April 6, 2026         
-End of module 1: April 19, 2026            
+Start of module 5: April 6, 2026         
+End of module 5: April 19, 2026            
 Duration: 2 weeks            
-Time estimate: ~10 hours per week, ~20 hours
+Time estimate: ~10 hours per week, ~20 hours total
 
 This module teaches you how to evaluate, monitor, and secure your LLM-powered applications. You’ll explore tools and practices that help prepare your app for real-world deployment — from performance tracking and prompt safety to cost control and failure handling.
 
@@ -24,7 +24,7 @@ By the end of this module, you’ll:
 > Both projects of the module belong to the short and full track.               
 
 ## Step 1 – Project: LLM Evals
-  **FULL TRACK**  /    **SHORT TRACK**
+**FULL TRACK** / **SHORT TRACK**
 
 In this project, you'll build a complete evaluation pipeline for an LLM-based chatbot that helps users choose smartphones. You’ll integrate Langfuse and Ragas, and apply both human and model-based evaluation strategies to assess the performance and reliability of your system.
 
@@ -82,7 +82,7 @@ In this timeslot, you’ll be able to:
 **Date & Time, link:** The meeting details will be shared via Discord and the calendar
 
 ## Step 4 – Project: Preparing for production
-  **FULL TRACK**  /    **SHORT TRACK**
+**FULL TRACK** / **SHORT TRACK**
 
 Every LLM request consumes tokens — and tokens cost money. In this project, you’ll set budget limits, optimize prompts, and manage inputs to keep your application both efficient and safe.
 

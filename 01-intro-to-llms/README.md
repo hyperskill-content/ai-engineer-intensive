@@ -37,7 +37,7 @@ Start the module by watching this session, which covers:
 [See video recording of the webinar](https://drive.google.com/file/d/1ePmMgWz6RnRfENbBFUCSxtCNr-dVqg_1/view?usp=sharing)
 
 ## Step 2 – Project: The Stock Analyzer (Responses API)
-  **FULL TRACK**  /    **SHORT TRACK**
+**FULL TRACK** / **SHORT TRACK**
 
 This project introduces building agents with OpenAI's Responses API by integrating MCP servers for external data retrieval and combining them with code interpreter tools for autonomous computational analysis and visualization generation.
 
@@ -64,7 +64,7 @@ In this timeslot, you’ll be able to:
 **Date & Time, link:** The meeting details will be shared via Discord and the calendar
 
 ## Step 4 – Project: Simple Python CLI Chat
-  **FULL TRACK**  /    **SHORT TRACK**
+**FULL TRACK** / **SHORT TRACK**
 
 In this project, you’ll learn how to:
 
@@ -117,7 +117,7 @@ Start [**Introduction to LangChain**](https://hyperskill.org/projects/514) pro
     
     **Core concepts needed:** Workflow composition using LangChain runnables, chaining components, executing complete LLM-based applications.
 
-## Wrapping up
+## Wrapping Up
 
 You built working AI tools in your first module. They are functional projects using LLMs and APIs with code you wrote and understand.
 

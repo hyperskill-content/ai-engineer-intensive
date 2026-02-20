@@ -3,13 +3,13 @@
 Start of module 2: March 2, 2026               
 End of module 2: March 15, 2026                              
 Duration: 2 weeks             
-Time estimate: ~12 hours per week, ~25 hours
+Time estimate: ~12 hours per week, ~25 hours total
 
 This module covers the basics of autonomous AI agents — systems that can perform tasks, call APIs, and work together without constant human input. 
 
 We'll start with the basics of how agents actually work, then build 2 systems that demonstrate these concepts in action.
 
-## **Learning Outcomes**
+## Learning Outcomes
 
 By the end of this module, you’ll:
 
@@ -24,7 +24,7 @@ By the end of this module, you’ll:
 > Applied Memory for Agents - full              
 > AI Diet & Meal Planner - full      
 
-## **Step 1 –** Watch the session: *AI Agents: Beyond the Hype*
+## Step 1 – Watch the session: AI Agents: Beyond the Hype
 
 Start this module by watching the webinar recording, which covers:
 
@@ -44,7 +44,7 @@ The code is available [here](https://github.com/hyperskill-content/AI-Agents-Int
 
 
 ## Step 2 – Project: Building a PR Review Agent
-  **FULL TRACK**  /    **SHORT TRACK**
+**FULL TRACK** / **SHORT TRACK**
 
 It’s time to make your agent part of the dev team.
 
@@ -73,7 +73,7 @@ Start [**Building a PR Review Agent**](https://hyperskill.org/projects/528) pro
     **Core concepts needed:** GitHub Actions setup, workflow automation, CI/CD fundamentals, deployment of AI workflows.
     
 ## Step 3 – Project: Applied Memory for Agents
-  **FULL TRACK**  /    **SHORT TRACK**                 
+**FULL TRACK** / **SHORT TRACK**                 
 The details on this project will be provided shortly. 
 
 ## Step 4 – Open hours: Building Agents
@@ -87,7 +87,7 @@ In this timeslot, you’ll be able to:
 **Date & Time, link:** The meeting details will be shared via Discord and the calendar
 
 ## Step 5 – Project: AI Diet & Meal Planner (Optional)
-  **FULL TRACK**
+**FULL TRACK**
 
 In this project, you'll build a FastAPI backend where multiple agents work together. Each agent handles a specific task like checking ingredients or recommending recipes. You'll write clear JSON-based prompts, create endpoints that handle complete user requests, and work with logging and containers.
 
@@ -114,7 +114,7 @@ Start [**AI Diet & Meal Planner**](https://hyperskill.org/projects/530) project
     **Core concepts needed:** Structured logging with Python, basic monitoring, observability practices, Docker containerization.
     
 
-## **Wrapping up**
+## Wrapping Up
 
 You've built two agent systems: one that serves a FastAPI application and another that reviews GitHub pull requests using a multi-agent workflow. You're now working with agents that maintain state, execute tools, and coordinate with each other.
 

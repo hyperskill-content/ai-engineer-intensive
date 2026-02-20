@@ -3,13 +3,13 @@
 Start of module 3: March 16, 2026          
 End of module 3: March 22, 2026             
 Duration: 1 week             
-Time estimate: ~12 hours per week            
+Time estimate: ~12 hours per week, ~12 hours total            
 
 This module introduces vector databases — essential components of modern LLM-powered applications. You’ll learn how to store, index, and query unstructured data using vector search, and integrate it into your own FastAPI app.
 
 By the end, you’ll know how to implement semantic search with custom data using Qdrant and OpenAI embeddings.
 
-## **Learning Outcomes**
+## Learning Outcomes
 
 By the end of this module, you’ll:
 
@@ -24,7 +24,7 @@ By the end of this module, you’ll:
 > Further steps with Qdrant - full                
 
 ## Step 1 – Project: Vector Database with Qdrant
-  **FULL TRACK**  /    **SHORT TRACK**
+**FULL TRACK** / **SHORT TRACK**
 
 Let’s get hands-on with Qdrant — a high-performance, open-source vector database. You’ll start by loading data into the database and building a basic semantic search system using OpenAI’s embeddings and FastAPI.
 
@@ -64,7 +64,7 @@ In this timeslot, you’ll be able to:
 
 
 ## Step 3 – Project: Further Steps with Qdrant
-  **FULL TRACK**
+**FULL TRACK**
 
 Time to go deeper. You’ll optimize your Qdrant setup for both speed and accuracy. Learn how index types, search parameters, and quantization affect performance — and when to use each.
 
@@ -83,7 +83,7 @@ Start the [**Further Steps with Qdrant**](https://github.com/hyperskill-content
     **Core concepts needed:** Embedding compression, scalar and product quantization, accuracy vs size trade-offs
     
 
-## **Wrapping up**
+## Wrapping Up
 
 This module laid the foundation for scalable knowledge retrieval. You now know how to store, embed, and semantically query large amounts of semi-unstructured data using Qdrant — one of the key building blocks of modern AI systems.
 

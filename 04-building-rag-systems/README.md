@@ -3,7 +3,7 @@
 Start of module 4: March 23, 2026         
 End of module 4: April 5, 2026                
 Duration: 2 weeks             
-Time estimate: ~12 hours per week, ~25 hours
+Time estimate: ~12 hours per week, ~25 hours total
 
 This module covers the essentials of Retrieval-Augmented Generation (RAG) — a pattern for combining LLMs with your own data. You’ll learn how to connect vector stores, chunk text, and boost relevance with re-ranking techniques.
 
@@ -19,7 +19,7 @@ By the end of this module, you’ll:
 - Improve reliability and user experience in data-rich AI apps
 
 ## Step 1 – Project: Introduction to LangChain
-  **FULL TRACK**  /    **SHORT TRACK**
+**FULL TRACK** / **SHORT TRACK**
 
 In this project, you’ll learn how to:
 
@@ -57,8 +57,8 @@ Start [**Introduction to LangChain**](https://hyperskill.org/projects/514) pro
 
 The details for this session will be shared shortly.
 
-## Step 3 – Project: Building the Naive RAG 
-  **FULL TRACK**
+## Step 3 – Project: Building the Naive RAG
+**FULL TRACK**
 
 In this project, you’ll build your first full Retrieval-Augmented Generation (RAG) pipeline using movie scripts as your dataset.
 
@@ -102,8 +102,8 @@ In this timeslot, you’ll be able to:
 
 **Date & Time, link:** The meeting details will be shared via Discord and the calendar
 
-## Step 5 – Project: Advanced RAG 
-  **FULL TRACK**  /    **SHORT TRACK**
+## Step 5 – Project: Advanced RAG
+**FULL TRACK** / **SHORT TRACK**
 
 In this project, you’ll apply advanced techniques that boost RAG system performance — making responses more relevant and better aligned with user intent.
 
