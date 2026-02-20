@@ -3,7 +3,7 @@
 Start of module 2: March 2, 2026               
 End of module 2: March 15, 2026                              
 Duration: 2 weeks             
-Multi-select: ~12 hours per week, ~25 hours
+Time estimate: ~12 hours per week, ~25 hours
 
 This module covers the basics of autonomous AI agents — systems that can perform tasks, call APIs, and work together without constant human input. 
 

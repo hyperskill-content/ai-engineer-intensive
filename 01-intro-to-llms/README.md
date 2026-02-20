@@ -1,8 +1,8 @@
 # 1. Intro to LLMs & Pipelines
 
-**Start of module 1**: February 16, 2026        
-**End of module 1**: March 1, 2026       
-**Duration**: 2 weeks            
+Start of module 1: February 16, 2026        
+End of module 1: March 1, 2026       
+Duration: 2 weeks            
 Time estimate: ~12 hours per week, ~25 hours total                    
 
 This module covers the fundamentals of building with AI. You'll work directly with LLMs to understand their capabilities and limitations, then learn to integrate them into code to create tools. We'll focus on practical implementation and building right away.

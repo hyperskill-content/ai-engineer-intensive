@@ -18,6 +18,11 @@ By the end of this module, you’ll:
 - Store and query unstructured data using Qdrant
 - Learn about the main techniques for vector database performance optimization
 
+> [!TIP]
+> Here is the breakdown of the short and full track project split for this module:                
+> Vector database with Qdrant - short & full             
+> Further steps with Qdrant - full                
+
 ## Step 1 – Project: Vector Database with Qdrant
   **FULL TRACK**  /    **SHORT TRACK**
 

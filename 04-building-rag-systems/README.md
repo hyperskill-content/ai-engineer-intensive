@@ -3,7 +3,7 @@
 Start of module 4: March 23, 2026         
 End of module 4: April 5, 2026                
 Duration: 2 weeks             
-Multi-select: ~12 hours per week, ~25 hours
+Time estimate: ~12 hours per week, ~25 hours
 
 This module covers the essentials of Retrieval-Augmented Generation (RAG) — a pattern for combining LLMs with your own data. You’ll learn how to connect vector stores, chunk text, and boost relevance with re-ranking techniques.
 
@@ -93,7 +93,7 @@ Start [**Building the Naive RAG**](https://hyperskill.org/projects/518) projec
 
 ## Step 4 – Open hours: Building RAG systems 
 
-In this Q&A, you’ll be able to:
+In this timeslot, you’ll be able to:
 
 - Clarify concepts around chunking, query augmentation, and re-ranking
 - Ask questions about building robust RAG pipelines with LangChain
