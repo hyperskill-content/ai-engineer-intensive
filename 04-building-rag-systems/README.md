@@ -16,7 +16,13 @@ By the end of this module, you’ll:
 - Understand the Retrieval-Augmented Generation (RAG) pattern
 - Use LangChain to integrate LLMs with your own data
 - Experiment with chunking strategies, query augmentation, re-ranking, and routing
-- Improve reliability and user experience in data-rich AI apps
+- Improve reliability and user experience in data-rich AI apps 
+
+> [!TIP]
+> Here is the breakdown of the short and full track project split for this module:                
+> INtroduction to LangChain - short & full             
+> Building the Naive RAG - full              
+> Advanced RAG - short & full     
 
 ## Step 1 – Project: Introduction to LangChain
 **FULL TRACK** / **SHORT TRACK**
