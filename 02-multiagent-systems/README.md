@@ -20,7 +20,7 @@ By the end of this module, you’ll:
 
 > [!TIP]
 > Here is the breakdown of the short and full track project split for this module:                
-> Building a PR Review Agent - short & full             
+> Building a PR Review Agent - short & full (core focus for the module)            
 > Applied Memory for Agents - full              
 > AI Diet & Meal Planner - full      
 
@@ -72,9 +72,21 @@ Start [**Building a PR Review Agent**](https://hyperskill.org/projects/528) pro
     
     **Core concepts needed:** GitHub Actions setup, workflow automation, CI/CD fundamentals, deployment of AI workflows.
     
-## Step 3 – Project: Applied Memory for Agents
-**FULL TRACK** / **SHORT TRACK**                 
-The details on this project will be provided shortly. 
+## Step 3 – Project: Applied Memory for Agents (Optional)
+**FULL TRACK**  
+In this project, you will build a conversational agent with memory. You'll implement and compare different strategies for managing conversation history, integrate two types of storage, and give your agent the ability to take actions through tool-calling.
+
+Start [**Applied Memory for Agents**](https://hyperskill.org/projects/554)
+
+1. Work on [**stage 1/3 Applied Memory for Agents**](https://hyperskill.org/projects/554/stages/3174/implement)  
+
+    **Core concepts needed**: Conversation history management, context window limitations, token cost awareness, memory strategy patterns, sliding window technique, conversation summarization, LLM-based summarization, strategy pattern design, CLI argument handling with Click, OpenAI Responses/ Chat Completions API, prompt formatting for summarization, edge case handling
+2. Work on [**stage 2/3 Applied Memory for Agents**](https://hyperskill.org/projects/554/stages/3175/implement)  
+
+    **Core concepts needed**: Persistent vs in-memory storage, document databases, key-value querying, semantic similarity search, vector embeddings, embedding models, cosine similarity, exact vs semantic match retrieval
+3.  Work on [**stage 3/3 Applied Memory for Agents**](https://hyperskill.org/projects/554/stages/3176/implement)  
+
+    **Core concepts needed**: Tool calling, function schemas, agent loop, multi-step tool execution, result formatting, recursive LLM calls, task status management, context compaction, tool execution traces, orchestrating storage through tools
 
 ## Step 4 – Open hours: Building Agents
 
