@@ -67,7 +67,7 @@ You’ll learn:
 
 **The webinar was hosted by:** **Ivan Rodin**, AI researcher, collaborated with Intel Labs and Philips Research on various computer vision projects. Author of courses on neural nets, LLMs, prompt engineering
 
-The details for this recording will be shared shortly. 
+The details for this recording will be shared via Discord. 
 
 ## Step 3 – Open hours: Monitoring and security
 

@@ -19,7 +19,7 @@ By the end of this module, you’ll:
 
 ## Step 1 – Watch the session: Deployment of LLM-based apps
 
-The details for this session will be shared shortly.
+The details for this session will be shared via Discord.
 
 
 ## Step 2 – Project: LLM Evals Deploy
